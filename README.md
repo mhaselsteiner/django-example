@@ -14,5 +14,5 @@ Your localhost is usually  127.0.0.1 and django uses port 8000 for the developme
  * add the app's name to the app list in the settings.py file
  * add the app's urls to urls.py
  You probably want to use include, so import it!
-  
+ * run server again and check if the app displays the content on ```127.0.0.1:8000/<appname> ```
 
